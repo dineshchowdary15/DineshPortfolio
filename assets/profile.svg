@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="864" viewBox="0 0 800 864" role="img" aria-labelledby="title desc">
+  <title id="title">DG monogram</title>
+  <desc id="desc">A typographic placeholder for Dinesh's portrait, in blue and slate.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#dce6f2"/>
+      <stop offset="1" stop-color="#c4d3e8"/>
+    </linearGradient>
+    <pattern id="grid" width="66" height="66" patternUnits="userSpaceOnUse">
+      <path d="M66 0H0V66" fill="none" stroke="#a9bbd4" stroke-opacity=".3"/>
+    </pattern>
+  </defs>
+  <path fill="url(#paper)" d="M0 0h800v864H0z"/>
+  <path fill="url(#grid)" d="M0 0h800v864H0z"/>
+  <circle cx="400" cy="401" r="262" fill="#e9eff8" fill-opacity=".64"/>
+  <circle cx="400" cy="401" r="285" fill="none" stroke="#94adcf" stroke-opacity=".45"/>
+  <circle cx="400" cy="401" r="313" fill="none" stroke="#94adcf" stroke-opacity=".22"/>
+  <text x="395" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="218" letter-spacing="-18" fill="#244570">DG</text>
+  <path d="M375 540h50" fill="none" stroke="#2158d5" stroke-width="3"/>
+  <text x="400" y="737" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="5" fill="#446080">CODE WITH PURPOSE.</text>
+  <circle cx="652" cy="267" r="7" fill="#2158d5"/>
+  <circle cx="137" cy="540" r="5" fill="#2158d5" fill-opacity=".6"/>
+</svg>
